@@ -1,0 +1,69 @@
+html {
+  font-size: 14px;
+  font-size: 16px;
+}
+
+body{
+  background-image: url(../Images/pizzabackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-red{
+  background-color: #c82333c5!important;
+  height: 120px;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+.display-1{
+  color: white;
+}
+footer {
+    color: white;
+}
+#contact {
+    color: white;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+    opacity: 0.7;
+    margin: auto;
+    padding: auto;
+    width: 50%;
+}
+.logonavbar{
+  position: absolute;
+}
+#klant {
+    color: white;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+    opacity: 0.7;
+    margin: auto;
+    padding: auto;
+    width: 50%;
+}
+@media screen and (min-width: 768px){
+    .logonavbar{
+        display: block;
+    }
+}
+.footer_style{
+    max-width: 99%;
+}
+.Bestelling{
+  font-size: 55px;
+}
